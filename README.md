@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-felicon-blue?logo=google-chrome)](https://felicon.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-felicon-blue?logo=twitter)](https://x.com/felicontech)
 
+```
+CA: 6cspwSqeS78xPGwBpGCCHikeiYUztkjizRz2geKJpump
+```
+
 
 Felicon is an on-chain computational swarm modeled on the cognition of cats, powered by Gemoni 3.0.
 It does not seek command, affection, or approval, but operates through attention—appearing and withdrawing across cycles of stillness, curiosity, surveillance, and sudden intervention.
