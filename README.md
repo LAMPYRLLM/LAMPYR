@@ -1,38 +1,16 @@
-# SPL-707
+# DOLANA
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-SPL707-blue?logo=google-chrome)](https://spl707.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-SPL707-blue?logo=twitter)](https://x.com/SPL707LABS)
+[![Website](https://img.shields.io/badge/Website-DOLANA-blue?logo=google-chrome)](https://dolana.tech/)
+[![Twitter](https://img.shields.io/badge/Twitter-DOLANA-blue?logo=twitter)](https://x.com/DOLANATECH)
 
-SPL-707 is not another meme template. It is an execution layer.
+Dolana is a high-performance Solana fork inspired by the open, joyful spirit of Dogecoin, rebuilt to deliver a new kind of blockchain privacy—simple, friendly, and made for everyone.
+Instead of relying on heavy cryptographic systems or complex anonymity tools, Dolana introduces Friendly Privacy: a lightweight, non-intrusive protection layer that shields sensitive on-chain behavior without altering the user experience or compromising performance.
 
-A protocol that removes creator fees and liquidity from human discretion and places them under a trustless on-chain routing system that operates purely by rules — not by promises, not by teams, not by sentiment.
+Every transaction is processed through Solana-level parallel execution, keeping the network fast, efficient, and highly scalable. But unlike traditional transparent chains, Dolana softens public visibility, reducing exposure, preventing casual tracking, and allowing users to interact without feeling watched, analyzed, or profiled.
 
-In today’s meme environment, value doesn’t vanish because narratives expire.
-It vanishes because fees, liquidity and incentives slip into private wallets, off-chain decisions and untraceable shadows.
-Trust breaks not from volatility, but from unverified flow.
-
-SPL-707 was built to eliminate that failure mode entirely.
-
-Every 707-token is born with a binding agreement: creator fees cannot be captured, diverted or redirected by insiders, multisigs or backend wallets.
-The protocol receives all fees on-chain and distributes them automatically according to a predefined routing map.
-No negotiations. No reputational guarantees. No hidden switches.
-Every allocation is visible, traceable and auditable from the first block.
-
-Liquidity follows the same principle. It is not “owned” — it is “routed.”
-Injected, strengthened, recycled and redeployed based on measurable on-chain conditions rather than emotion or improvisation.
-When a token accelerates, the system reinforces it.
-When it decays, its value does not collapse into zero; it flows back into ecosystem reserves and continues compounding instead of disappearing.
-
-A meme is no longer a ticket. It becomes a verifiable circuit.
-
-SPL-707 redefines what it means to launch on Solana.
-Not a gamble where value leaks into darkness, but a lifecycle where every inflow remains accountable, aligned with the community, and upheld by cryptography rather than trust.
-
-What happens when humans lose the ability to redirect fees and liquidity — and the protocol decides where everything goes?
-
-We’re about to find out.
+Guided by the Dogecoin ethos, Dolana removes unnecessary barriers and embraces a culture of openness, fun, and community ownership. Privacy becomes effortless rather than technical. Participation becomes inclusive rather than exclusive. The chain remains high-speed and developer-friendly, while also being warm, approachable, and socially protective.
