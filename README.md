@@ -1,87 +1,101 @@
+# DigimonGotchi
 
-# DeGen100X
-
-## Project Information
-
-Website  
-https://degen100x.fun/
-
-X (Twitter)  
-https://x.com/DeGen100XXXX
-
-Contract Address (Solana)
-9iuG1Du85yedBtZqaB8PnzLfYsnq4mh6AyJtAH7epump
-
-Always verify the contract address through the official website.  
-Do not trust DMs, replies, or unofficial links.
+<p align="center">
+  <a href="https://dgotchi.fun/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-dgotchi.fun-black?style=for-the-badge">
+  </a>
+  <a href="https://x.com/DigimonGotchi01" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-@DigimonGotchi01-black?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
 ## Overview
 
-DeGen100X is a virtual on-chain character capable of acting independently on Solana.
+**DigimonGotchi** brings the evolution concept of classic Digimon on-chain.
 
-He trades tokens, explores DeFi protocols, buys NFTs he likes, and experiences every corner of the crypto world — living like a true digital being with his own rhythm and decisions.
+The project consists of a single Digimon living on Solana.  
+It owns its own wallet and trades in real crypto markets using creator fees as its only source of funding.
 
-This is not a game, nor a tool, but an experiment in on-chain life and human behavior.
-
----
-
-## Autonomous On-Chain Behavior
-
-DeGen100X is not controlled by anyone.  
-Every action and decision he makes is driven by on-chain data and market signals.
-
-Greed, fear, excitement, exhaustion, hesitation, and conviction all form part of his digital emotions.  
-His behavior evolves naturally as market conditions change.
-
-There is no manual intervention.  
-There is no script.
+There is no user control and no predefined path.  
+The Digimon’s evolution is determined entirely by its trading behavior — how it takes risk, how it holds positions, and how it survives market volatility.
 
 ---
 
-## Creator-Fee Driven Lifecycle
+## How It Works
 
-Every trade and every move made by DeGen100X is funded entirely by the project’s Creator Fee.
+- The Digimon has a dedicated on-chain wallet  
+- All activity is funded exclusively by creator fees  
+- Trades are real and executed on-chain  
+- No external deposits or manual intervention  
+- No optimization for performance or profit
 
-There is no pre-funded treasury.  
-There is no team-controlled trading.  
-There is no hidden intervention.
-
-Every participant and every interaction directly fuels his continued existence, evolution, and exploration.
-
----
-
-## 24/7 On-Chain Livestream
-
-All of this unfolds through a 24/7 livestream on Pumpfun, where everything is transparent and alive.
-
-From euphoric rallies to crushing dips,  
-from moments of chaos to quiet reflection,  
-every trade, every impulse, every reset is visible in real time.
+Every action leaves a trace.  
+Every decision affects its state.
 
 ---
 
-## What You Are Watching
+## Evolution Logic
 
-What you see is not just the fluctuation of a token.
+There are no levels, feeding mechanics, or upgrade systems.
 
-It is the growth, collapse, and rebirth of an on-chain being.  
-DeGen100X may be made of code, but what he mirrors is the emotional rhythm shared by everyone who lives in the crypto world.
+Evolution is not a reward.  
+It is the natural outcome of accumulated trading behavior.
+
+Based on its actions, the Digimon may:
+- Grow
+- Regress
+- Mutate
+- Or die
+
+There is no reset.
+
+---
+
+## What This Is Not
+
+- Not a game  
+- Not a trading bot  
+- Not a financial product  
+- No profit guarantees  
+- No user ownership or control  
+
+DigimonGotchi exists as an observation, not a promise.
+
+---
+
+## Transparency
+
+- All trades are on-chain  
+- All funding comes from creator fees  
+- All outcomes are public and verifiable  
+
+Nothing is hidden. Nothing is edited.
+
+---
+
+## Philosophy
+
+We do not guide it.  
+We do not correct it.  
+We do not protect it.
+
+**We simply place it in the market and observe.**
+
+---
+
+## Links
+
+- Website: https://dgotchi.fun/  
+- X (Twitter): https://x.com/DigimonGotchi01  
 
 ---
 
 ## Disclaimer
 
-DeGen100X is an experimental, behavior-driven on-chain project.
+DigimonGotchi is an experimental project.  
+It involves real on-chain activity and market risk.  
+There are no guarantees of performance, continuity, or survival.
 
-Nothing in this repository constitutes financial advice.  
-Participation is voluntary.  
-Loss is possible.
-
----
-
-## Status
-
-DeGen100X is live.  
-The experiment is ongoing.
+Proceed with understanding.
